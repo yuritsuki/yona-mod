@@ -1,0 +1,30 @@
+# Compiled files
+*.dcu
+*.exe
+*.bpl
+*.ocx
+*.dll
+*.so
+
+# Project-related temporary files
+*.identcache
+*.local
+*.tvsconfig
+*.tvsfiles
+*.tvssettings
+
+# IDE-generated files
+*.dsk
+*.opt
+__history/
+*.tvs
+
+# Deployment Manager configuration file (uncomment if not mobile development and not using remote debug)
+#*.deployproj
+
+# Backup files
+*.bak
+*.~*
+
+# User-specific files
+*.stat

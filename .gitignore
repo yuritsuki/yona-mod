@@ -1,0 +1,11 @@
+# Auto detect text files and perform LF normalization
+* text=false
+
+
+.gitignore export-ignore
+.gitattributes export-ignore
+.git*           export-ignore
+
+# Ignore Thumbs.db and .DS_Store in all directories
+Thumbs.db
+.DS_Store
